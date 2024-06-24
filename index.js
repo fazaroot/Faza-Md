@@ -162,7 +162,7 @@ async function FazaMd() {
 
 	return Jawa
 }
-startBotz()
+
 
 function smsg(Jawa, m, store) {
     if (!m) return m
